@@ -5,7 +5,7 @@
 
 <!-- Title with Gradient Effect (using HTML for styling) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3000&pause=500&color=7C3AED&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Muhammad+Abdul+👋;Full+Stack+Developer;Laravel+Expert;5%2B+Years+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3000&pause=500&color=7C3AED&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Muhammad+Abdul+👋;Full+Stack+Developer;Laravel+Expert;5%2B+Years+Experience" />
 </h1>
 
 <p align="center">
