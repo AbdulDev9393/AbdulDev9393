@@ -49,8 +49,8 @@
   <tr>
     <td width="60%">
       <ul>
-        <li>🎯 <b>Current Focus:</b> Building scalable web applications with <b>Laravel 11 & Vue.js 3</b></li>
-        <li>🌱 <b>Learning Journey:</b> Deep diving into <b>React Native, DevOps, and Cloud Architecture</b></li>
+        <li>🎯 <b>Current Focus:</b> Building scalable web applications with <b> HTML , CSS, JS, PHP Laravel</b></li>
+        <li>🌱 <b>Learning Journey:</b> Deep diving into <b> DevOps, and Cloud Architecture</b></li>
         <li>🤝 <b>Open Source:</b> Actively contributing to <b>Laravel & PHP</b> ecosystem</li>
         <li>💬 <b>Tech Talks:</b> Ask me about <b>PHP, Laravel, MySQL, JavaScript, REST APIs</b></li>
         <li>⚡ <b>Fun Fact:</b> I dream in <b>object-oriented code</b> and wake up with solutions 🛌💡</li>
