@@ -59,13 +59,6 @@
   </tr>
 </table>
 
-<!-- Tech Stack -->
-## 🛠️ **Tech Arsenal**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,vue,nextjs,nodejs,express,jquery,alpinejs,bootstrap,tailwind,materialui,html,css,sass,mysql,postgresql,mongodb,firebase,redis,rabbitmq,nginx,apache,git,github,gitlab,bitbucket,docker,kubernetes,jenkins,aws,azure,gcp,linux,ubuntu,postman,vscode,phpstorm,figma,webpack,vite&perline=10" />
-</p>
-
 
 
 <p align="center">
@@ -118,6 +111,15 @@
   </table>
 </p>
 </details>
+
+
+<!-- Tech Stack -->
+## 🛠️ **Tech Arsenal**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,vue,nextjs,nodejs,express,jquery,alpinejs,bootstrap,tailwind,materialui,html,css,sass,mysql,postgresql,mongodb,firebase,redis,rabbitmq,nginx,apache,git,github,gitlab,bitbucket,docker,kubernetes,jenkins,aws,azure,gcp,linux,ubuntu,postman,vscode,phpstorm,figma,webpack,vite&perline=10" />
+</p>
+
 
 <!-- Connect Section -->
 ## 🤝 **Let's Collaborate**
