@@ -5,9 +5,8 @@
 
 <!-- Title with Gradient Effect (using HTML for styling) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=30&duration=3500&pause=800&color=7C3AED&center=true&vCenter=true&width=800&lines=Hello!+I+am+Muhammad+Abdul;I+am+a+Full+Stack+Web+Developer;I+am+a+PHP+%26+Laravel+Specialist;Building+scalable+web+applications;5%2B+years+of+experience;Let's+connect+and+create+something+amazing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=30&duration=3500&pause=800&color=7C3AED&center=true&vCenter=true&width=750&lines=Hello!+I+am+Muhammad+Abdul;Full+Stack+Web+Developer;PHP+%26+Laravel+Specialist;2%2B+years+of+experience;Let's+build+something+awesome" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <b>Full Stack Web Developer | Turning Ideas into Digital Reality</b>
 </p>
