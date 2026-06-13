@@ -4,9 +4,9 @@
 </p>
 
 <!-- Title with Gradient Effect (using HTML for styling) -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=30&duration=3500&pause=800&color=7C3AED&center=true&vCenter=true&width=650&lines=👋+Hello!+I'm+Muhammad+Abdul;🔥+Full+Stack+Developer+from+Pakistan;💡+5%2B+years+of+coding+magic;⚡+Laravel+%7C+PHP+%7C+Vue.js;🎯+Let's+build+something+awesome" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=30&duration=3500&pause=800&color=7C3AED&center=true&vCenter=true&width=650&lines=Hello!+I'm+Muhammad+Abdul;Full+Stack+Developer+from+Pakistan;5%2B+years+of+coding+experience;Laravel+|+PHP+|+Vue.js;Let's+build+something+awesome" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <b>Full Stack Web Developer | Turning Ideas into Digital Reality</b>
