@@ -8,7 +8,7 @@
 
 <!-- Animated Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=35&duration=4000&pause=500&color=7C3AED&center=true&vCenter=true&random=false&width=800&height=70&lines=🚀+Muhammad+Abdul+🚀;💻+Full+Stack+Architect+💻;⚡+Laravel+%26+PHP+Virtuoso+⚡;🎯+2%2B+Years+of+Excellence+🎯;🌟+Turning+Ideas+Into+Reality+🌟" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=30&pause=800&color=7C3AED&center=true&vCenter=true&width=750&lines=Hello!+I+am+Muhammad+Abdul;Full+Stack+Web+Developer;PHP+%26+Laravel+Specialist;2%2B+years+of+experience;Let's+build+something+awesome" alt="Typing SVG" />
 </p>
 
 <!-- Dynamic Status Badge -->
@@ -62,28 +62,11 @@
   </tr>
 </table>
 
-<!-- Tech Stack with Animation -->
+<!-- Tech Stack -->
 ## 🛠️ **Tech Arsenal**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,vue,nextjs,nodejs,express,jquery,alpinejs,bootstrap,tailwind,materialui,html,css,sass,mysql,postgresql,mongodb,firebase,redis,rabbitmq,nginx,apache,git,github,gitlab,bitbucket,docker,kubernetes,jenkins,aws,azure,gcp,linux,ubuntu,postman,vscode,phpstorm,figma,webpack,vite&perline=10" />
-</p>
-
-<!-- GitHub Stats with Modern Cards -->
-## 📊 **GitHub Analytics**
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulDev9393&theme=radical" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdulDev9393&theme=radical" width="32%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdulDev9393&theme=radical" width="32%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdulDev9393&theme=radical" width="32%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulDev9393&theme=react-dark&bg_color=0d1117&color=7c3aed&line=ec4899&point=ffffff&area=true&hide_border=true" width="95%">
 </p>
 
 <!-- Trophy Section -->
@@ -92,26 +75,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AbdulDev9393&theme=radical&no-frame=true&no-bg=false&margin-w=15&column=7" width="100%">
 </p>
-
-<!-- Featured Projects with Modern Cards -->
-## 🚀 **Featured Projects**
-
-<p align="center">
-  <a href="https://partsfinder.ae/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulDev9393&repo=your-repo-name&theme=radical&bg_color=0d1117&title_color=7c3aed&icon_color=ec4899" width="45%">
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulDev9393&repo=your-repo-name2&theme=radical&bg_color=0d1117&title_color=7c3aed&icon_color=ec4899" width="45%">
-  </a>
-</p>
-
-| Project | Tech Stack | Key Features | Status |
-|---------|------------|--------------|--------|
-| **School Management System** | Laravel 10, MySQL, Bootstrap 5 | Multi-role dashboard, Automated grading, Fee management | ✅ Live |
-| **Multi-Vendor E-commerce** | Laravel 11, Stripe, Vue.js 3 | Real-time inventory, Payment gateway, Analytics | 🚀 In Progress |
-| **Library Management** | PHP 8, Laravel, jQuery | Digital catalog, Reservation system, Fine calculator | ✅ Completed |
-| **Real Estate Platform** | Laravel, Google Maps API, Alpine.js | Property mapping, Virtual tours, Agent dashboard | 🔄 Planning |
-| **Analytics Dashboard** | Laravel API, Chart.js, Livewire | Real-time metrics, Custom reports, Export features | ✅ Completed |
 
 <!-- Services Section -->
 ## 💼 **Professional Services**
@@ -160,13 +123,6 @@
 </p>
 </details>
 
-<!-- Weekly Coding Stats -->
-## ⏱️ **Coding Activity**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AbdulDev9393&theme=radical&bg_color=0d1117&title_color=7c3aed&layout=compact&hide_border=true" width="60%">
-</p>
-
 <!-- Connect Section -->
 ## 🤝 **Let's Collaborate**
 
@@ -210,4 +166,4 @@
     <b>“Code is poetry — I write clean, maintainable, and future-proof applications.”</b><br>
     <sub>Let's create something extraordinary together! 🚀</sub>
   </i>
-</p>
+</p> 
