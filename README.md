@@ -1,12 +1,6 @@
 <!-- Banner Image with Gradient Overlay -->
 <p align="center">
-  <a href="https://github.com/AbdulDev9393">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Muhammad%20Abdul&fontSize=55&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20PHP%20Laravel%20Expert&descAlignY=55&animation=twinkling&gradientColorStart=7c3aed&gradientColorEnd=ec4899&fontColor=ffffff" width="100%">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=25&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=🚀+2%2B+Years+of+Coding+Excellence;💻+50%2B+Projects+Completed;⭐+25%2B+Happy+Clients;🎯+24%2F7+Technical+Support" alt="Stats" />
+  <img src="banner.png.jpg" alt="Muhammad Abdul Banner" width="100%">
 </p>
 
 <!-- Animated Title -->
