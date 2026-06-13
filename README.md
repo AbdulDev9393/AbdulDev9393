@@ -1,122 +1,213 @@
-<!-- Banner Image -->
+<!-- Banner Image with Gradient Overlay -->
 <p align="center">
-  <img src="banner.png.jpg" alt="Muhammad Abdul Banner" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="banner.png.jpg">
+    <img src="banner.png.jpg" alt="Muhammad Abdul Banner" width="100%">
+  </picture>
 </p>
 
-<!-- Title with Gradient Effect (using HTML for styling) -->
+<!-- Animated Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=30&duration=3500&pause=800&color=7C3AED&center=true&vCenter=true&width=750&lines=Hello!+I+am+Muhammad+Abdul;Full+Stack+Web+Developer;PHP+%26+Laravel+Specialist;2%2B+years+of+experience;Let's+build+something+awesome" alt="Typing SVG" />
-</p>
-<p align="center">
-  <b>Full Stack Web Developer | Turning Ideas into Digital Reality</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=35&duration=4000&pause=500&color=7C3AED&center=true&vCenter=true&random=false&width=800&height=70&lines=🚀+Muhammad+Abdul+🚀;💻+Full+Stack+Architect+💻;⚡+Laravel+%26+PHP+Virtuoso+⚡;🎯+2%2B+Years+of+Excellence+🎯;🌟+Turning+Ideas+Into+Reality+🌟" alt="Typing SVG" />
 </p>
 
+<!-- Dynamic Status Badge -->
 <p align="center">
-  <a href="https://github.com/AbdulDev9393"><img src="https://img.shields.io/badge/GitHub-AbdulDev9393-7c3aed?style=flat-square&logo=github" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/muhammad-abdul-php-laravel-developer-77aa84413"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Abdul-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:abdulsoftwareengineer64@gmail.com"><img src="https://img.shields.io/badge/Email-abdulsoftwareengineer64%40gmail.com-EA4335?style=flat-square&logo=gmail" alt="Email"></a>
-  <a href="https://wa.me/923140699386"><img src="https://img.shields.io/badge/WhatsApp-+92%20314%200699386-25D366?style=flat-square&logo=whatsapp" alt="WhatsApp"></a>
+  <img src="https://img.shields.io/badge/STATUS-CODING%20LIFE-7c3aed?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-ec4899?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/AVAILABLE-YES-10b981?style=for-the-badge&logo=checkmarx&logoColor=white" />
 </p>
 
----
-
-## 🚀 About Me
-
-I'm a passionate **Full Stack Web Developer** from **Punjab, Pakistan**. Over the last 5+ years, I've helped startups, agencies, and enterprises turn complex ideas into powerful digital products.
-
-- 🔭 Currently working on **Laravel & Vue.js** projects
-- 🌱 Learning **React Native** & **DevOps**
-- 👯 Looking to collaborate on **Open Source** projects
-- 💬 Ask me about **PHP, Laravel, MySQL, JavaScript**
-- ⚡ Fun fact: I write code that writes code 🤖
-
----
-
-## 🛠️ Tech Stack
-
+<!-- Social Links with Hover Effects -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,jquery,bootstrap,tailwind,html,css,mysql,git,github,vscode,linux&perline=7" />
+  <a href="https://github.com/AbdulDev9393" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/muhammad-abdul-php-laravel-developer-77aa84413" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:abdulsoftwareengineer64@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://wa.me/923140699386" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
 </p>
 
----
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</p>
 
-## 📊 GitHub Stats
+<!-- About Me Section with Custom Badges -->
+## 📌 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
+
+<table align="center">
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🎯 <b>Current Focus:</b> Building scalable web applications with <b>Laravel 11 & Vue.js 3</b></li>
+        <li>🌱 <b>Learning Journey:</b> Deep diving into <b>React Native, DevOps, and Cloud Architecture</b></li>
+        <li>🤝 <b>Open Source:</b> Actively contributing to <b>Laravel & PHP</b> ecosystem</li>
+        <li>💬 <b>Tech Talks:</b> Ask me about <b>PHP, Laravel, MySQL, JavaScript, REST APIs</b></li>
+        <li>⚡ <b>Fun Fact:</b> I dream in <b>object-oriented code</b> and wake up with solutions 🛌💡</li>
+      </ul>
+    </td>
+    <td align="center" width="40%">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200">
+    </td>
+  </tr>
+</table>
+
+<!-- Tech Stack with Animation -->
+## 🛠️ **Tech Arsenal**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulDev9393&show_icons=true&theme=dark&bg_color=0a0a0f&title_color=7c3aed&icon_color=ec4899&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulDev9393&theme=dark&background=0a0a0f&ring=7c3aed&fire=ec4899&currStreakLabel=7c3aed&hide_border=true" width="48%" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,vue,nextjs,nodejs,express,jquery,alpinejs,bootstrap,tailwind,materialui,html,css,sass,mysql,postgresql,mongodb,firebase,redis,rabbitmq,nginx,apache,git,github,gitlab,bitbucket,docker,kubernetes,jenkins,aws,azure,gcp,linux,ubuntu,postman,vscode,phpstorm,figma,webpack,vite&perline=10" />
+</p>
+
+<!-- GitHub Stats with Modern Cards -->
+## 📊 **GitHub Analytics**
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulDev9393&theme=radical" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulDev9393&layout=compact&theme=dark&bg_color=0a0a0f&title_color=7c3aed&hide_border=true" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdulDev9393&theme=radical" width="32%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdulDev9393&theme=radical" width="32%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdulDev9393&theme=radical" width="32%">
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulDev9393&theme=react-dark&bg_color=0d1117&color=7c3aed&line=ec4899&point=ffffff&area=true&hide_border=true" width="95%">
+</p>
 
-## 🏆 Featured Projects
+<!-- Trophy Section -->
+## 🏆 **Achievements**
 
-| Project | Tech Stack | Links |
-|---------|------------|-------|
-| **School Management System** | Laravel, MySQL, Bootstrap | [🔗 Live Demo](https://partsfinder.ae/) |
-| **Multi-Vendor E-commerce** | Laravel, Stripe, Vue.js | [🔗 GitHub](#) |
-| **Library Management** | PHP, Laravel, jQuery | [🔗 GitHub](#) |
-| **Real Estate Platform** | Laravel, Google Maps, Alpine.js | [🔗 GitHub](#) |
-| **Analytics Dashboard** | Chart.js, Laravel API | [🔗 GitHub](#) |
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdulDev9393&theme=radical&no-frame=true&no-bg=false&margin-w=15&column=7" width="100%">
+</p>
 
----
+<!-- Featured Projects with Modern Cards -->
+## 🚀 **Featured Projects**
 
-## 💼 What I Offer
+<p align="center">
+  <a href="https://partsfinder.ae/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulDev9393&repo=your-repo-name&theme=radical&bg_color=0d1117&title_color=7c3aed&icon_color=ec4899" width="45%">
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulDev9393&repo=your-repo-name2&theme=radical&bg_color=0d1117&title_color=7c3aed&icon_color=ec4899" width="45%">
+  </a>
+</p>
+
+| Project | Tech Stack | Key Features | Status |
+|---------|------------|--------------|--------|
+| **School Management System** | Laravel 10, MySQL, Bootstrap 5 | Multi-role dashboard, Automated grading, Fee management | ✅ Live |
+| **Multi-Vendor E-commerce** | Laravel 11, Stripe, Vue.js 3 | Real-time inventory, Payment gateway, Analytics | 🚀 In Progress |
+| **Library Management** | PHP 8, Laravel, jQuery | Digital catalog, Reservation system, Fine calculator | ✅ Completed |
+| **Real Estate Platform** | Laravel, Google Maps API, Alpine.js | Property mapping, Virtual tours, Agent dashboard | 🔄 Planning |
+| **Analytics Dashboard** | Laravel API, Chart.js, Livewire | Real-time metrics, Custom reports, Export features | ✅ Completed |
+
+<!-- Services Section -->
+## 💼 **Professional Services**
+
+<details open>
+<summary><b>📌 Click to expand services</b></summary>
+<br>
 
 <p align="center">
   <table>
     <tr>
-      <td align="center">🌐</td>
-      <td><b>Custom Web Development</b><br>Laravel, PHP, JavaScript</td>
-      <td align="center">🛒</td>
-      <td><b>E-commerce Solutions</b><br>Payment gateways, inventory, analytics</td>
+      <td align="center" width="33%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50"><br>
+        <b>Custom Web Development</b><br>
+        <sub>Tailored solutions for your business needs</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-plain.svg" width="50"><br>
+        <b>E-commerce Solutions</b><br>
+        <sub>Scalable online stores with payment integration</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"><br>
+        <b>Database Architecture</b><br>
+        <sub>Optimized, secure, and scalable databases</sub>
+      </td>
     </tr>
     <tr>
-      <td align="center">🗄️</td>
-      <td><b>Database Design</b><br>Optimization & management</td>
-      <td align="center">⚡</td>
-      <td><b>API Development</b><br>RESTful APIs & integrations</td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"><br>
+        <b>API Development</b><br>
+        <sub>RESTful & GraphQL APIs</sub>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"><br>
+        <b>DevOps & Deployment</b><br>
+        <sub>CI/CD, Containerization, Cloud hosting</sub>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50"><br>
+        <b>Code Review & Mentorship</b><br>
+        <sub>Best practices and team training</sub>
+      </td>
     </tr>
   </table>
 </p>
+</details>
 
----
-
-## 📈 Activity Graph
+<!-- Weekly Coding Stats -->
+## ⏱️ **Coding Activity**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulDev9393&theme=react-dark&bg_color=0a0a0f&color=7c3aed&line=ec4899&point=ffffff&hide_border=true" width="95%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AbdulDev9393&theme=radical&bg_color=0d1117&title_color=7c3aed&layout=compact&hide_border=true" width="60%">
 </p>
 
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <b>I'm always open to discussing new projects, collaborations, or just tech in general!</b>
-</p>
+<!-- Connect Section -->
+## 🤝 **Let's Collaborate**
 
 <p align="center">
-  📧 <b>Email:</b> abdulsoftwareengineer64@gmail.com<br>
-  📞 <b>Phone:</b> +92 314 0699386<br>
-  🌍 <b>Location:</b> Punjab, Pakistan (Remote / Worldwide)
+  <b>💡 Open for:</b> Freelance projects | Technical consultations | Open source contributions | Mentorship
 </p>
 
 <p align="center">
-  <a href="https://github.com/AbdulDev9393"><img src="https://img.shields.io/badge/Follow%20on-GitHub-7c3aed?style=for-the-badge&logo=github" /></a>
-  <a href="https://linkedin.com/in/muhammad-abdul-php-laravel-developer-77aa84413"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://calendly.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Schedule_Meeting-7c3aed?style=for-the-badge&logo=googlecalendar&logoColor=white" />
+  </a>
+  <a href="https://github.com/AbdulDev9393" target="_blank">
+    <img src="https://img.shields.io/badge/Check_My_Repos-ec4899?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:abdulsoftwareengineer64@gmail.com">
+    <img src="https://img.shields.io/badge/Send_Email-10b981?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
----
-
+<!-- Contact Details -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdulDev9393&color=7c3aed&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/badge/Location-Punjab%2C%20Pakistan-FF6B6B?style=flat-square&logo=googlemaps&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-abdulsoftwareengineer64%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Phone-%2B92%20314%200699386-25D366?style=flat-square&logo=whatsapp&logoColor=white">
+  <img src="https://img.shields.io/badge/Timezone-PKT%20(UTC%2B5)-blue?style=flat-square&logo=clockify&logoColor=white">
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbdulDev9393&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/AbdulDev9393?label=FOLLOWERS&style=for-the-badge&color=ec4899" />
+  <img src="https://img.shields.io/github/stars/AbdulDev9393?label=STARS&style=for-the-badge&color=7c3aed" />
 </p>
 
 <p align="center">
-  <i>“Code is poetry — I write clean, maintainable, and future-proof applications.”</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&gradientColorStart=7c3aed&gradientColorEnd=ec4899"/>
+</p>
+
+<p align="center">
+  <i>
+    <b>“Code is poetry — I write clean, maintainable, and future-proof applications.”</b><br>
+    <sub>Let's create something extraordinary together! 🚀</sub>
+  </i>
 </p>
