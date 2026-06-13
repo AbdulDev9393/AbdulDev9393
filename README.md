@@ -83,10 +83,10 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50"><br>
-        <b>Custom Web Development</b><br>
-        <sub>Tailored solutions for your business needs</sub>
-      </td>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="50"><br>
+  <b>Custom Web Development</b><br>
+  <sub>Tailored solutions for your business needs</sub>
+</td>
       <td align="center" width="33%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-plain.svg" width="50"><br>
         <b>E-commerce Solutions</b><br>
