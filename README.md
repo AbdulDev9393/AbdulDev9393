@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="banner.png" alt="Muhammad Abdul Banner" width="100%">
+  <img src="banner.png.jpg" alt="Muhammad Abdul Banner" width="100%">
 </p>
 
 <!-- Title with Gradient Effect (using HTML for styling) -->
